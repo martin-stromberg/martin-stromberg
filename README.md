@@ -37,7 +37,7 @@ In meinem Profil findet ihr einen Teil meiner privaten Projekte, bei denen ich m
 ---
 
 ## 💼 Erfahrung
-- **ERP-Entwickler & Systembetreuer** – Arbeitgeber (seit 2006)  
+- **ERP-Entwickler & Systembetreuer** (seit 2006)  
   - Entwicklung von Business Central Erweiterungen in AL & C/AL
   - Betreuung und Administration des ERP-Systems und angrenzender Anwendungen  
   - Anwendersupport und Prozessautomatisierung  
@@ -45,7 +45,7 @@ In meinem Profil findet ihr einen Teil meiner privaten Projekte, bei denen ich m
   - Aufbau eines Workflowsystems 
   - Aufbau eines Intranets mit Content Management System  
 
-- **Ausbildung Fachinformatiker Anwendungsentwicklung** – Arbeitgeber (2003–2006, abgeschlossen)  
+- **Ausbildung Fachinformatiker Anwendungsentwicklung** (2003–2006, abgeschlossen)  
 
 ---
 
