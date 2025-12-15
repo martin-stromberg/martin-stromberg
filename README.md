@@ -32,15 +32,17 @@ In meinem Profil findet ihr einen Teil meiner privaten Projekte, bei denen ich m
   - ⚙️ Automatisierung der Auftragsbearbeitung für Standardprodukte  
   - 🧾Umsetzung verschiedener monatlicher Abrechnungsläufe  
 - 🖥️ Modernisierung einer ursprünglich mit **Delphi 7** entwickelten Client/Server-Anwendung:  
-  Neuaufbau als **ASP.NET Core Webanwendung** und **Systemdienst** im .NET-Umfeld  
+  Neuaufbau als **ASP.NET Core Webanwendung** und **Systemdienst** im .NET-Umfeld
+- Aufbau diverser ETL-Prozesse für die Bereitstellung von Daten für BI/Reporting
 
 ---
 
 ## 💼 Erfahrung
 - **ERP-Entwickler & Systembetreuer** (seit 2006)  
-  - Entwicklung von Business Central Erweiterungen in AL & C/AL
-  - Betreuung und Administration des ERP-Systems und angrenzender Anwendungen  
-  - Anwendersupport und Prozessautomatisierung  
+  - Entwicklung von Business Central Erweiterungen in AL & C/AL seit MiBuSo 3.7
+  - Betreuung und Administration des ERP-Systems und angrenzender Anwendungen
+  - Prozessautomatisierung
+  - Anwendersupport und Unterstützung der Projekt-/Prozessverantwortlichen
   - Entwicklung von zum Teil auch technologieübergreifenden Client-/Serverlösungen  
   - Aufbau eines Workflowsystems 
   - Aufbau eines Intranets mit Content Management System  
