@@ -26,15 +26,20 @@ In meinem Profil findet ihr einen Teil meiner privaten Projekte, bei denen ich m
 - [🎬 VideoPlayer](https://github.com/martin-stromberg/videoplayer) – .NET Blazor Server Anwendung für die private Mediathek mit .NET MAUI Client  
 
 ### 💼 Beruflich
-- Entwicklung zahlreicher individueller Anpassungen für **Business Central** (vormals Dynamics NAV), zur Automatisierung von Geschäftsprozessen:
+- Entwicklung zahlreicher individueller Anpassungen für **Business Central** (vormals Dynamics NAV oder Navision), zur Automatisierung von Geschäftsprozessen:
   u.a.:
   - 🔗 Schnittstellen (Dateiaustausch, Webservices) mit internen und externen Anwendungen  
   - ⚙️ Automatisierung der Auftragsbearbeitung für Standardprodukte  
-  - 🧾Umsetzung verschiedener monatlicher Abrechnungsläufe  
+  - 🧾Umsetzung verschiedener monatlicher Abrechnungsläufe
 - 🖥️ Modernisierung einer ursprünglich mit **Delphi 7** entwickelten Client/Server-Anwendung:  
   Neuaufbau als **ASP.NET Core Webanwendung** und **Systemdienst** im .NET-Umfeld
 - Aufbau diverser ETL-Prozesse für die Bereitstellung von Daten für BI/Reporting
-
+- Administration und Anwendersupport dieser Systemumgebung des ERP-System
+  - inkl. SQL Server
+  - Zusatzsoftware für Banken, Zollanmeldungen,
+  - Workflowsysteme und andere webbasierte Anwendungen
+  - ETL-Prozesse 
+    
 ---
 
 ## 💼 Erfahrung
