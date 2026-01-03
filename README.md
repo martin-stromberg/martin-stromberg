@@ -54,8 +54,3 @@ In meinem Profil findet ihr einen Teil meiner privaten Projekte, bei denen ich m
 
 - **Ausbildung Fachinformatiker Anwendungsentwicklung** (2003–2006, abgeschlossen)  
 
----
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=martin-stromberg&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martin-stromberg&layout=compact&theme=radical)
