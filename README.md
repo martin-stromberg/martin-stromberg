@@ -34,7 +34,7 @@ In meinem Profil findet ihr einen Teil meiner privaten Projekte, bei denen ich m
 - 🖥️ Modernisierung einer ursprünglich mit **Delphi 7** entwickelten Client/Server-Anwendung:  
   Neuaufbau als **ASP.NET Core Webanwendung** und **Systemdienst** im .NET-Umfeld
 - Aufbau diverser ETL-Prozesse für die Bereitstellung von Daten für BI/Reporting
-- Administration und Anwendersupport dieser Systemumgebung des ERP-System
+- Administration und Anwendersupport dieser Systemumgebung des ERP-Systems
   - inkl. SQL Server
   - Zusatzsoftware für Banken, Zollanmeldungen,
   - Workflowsysteme und andere webbasierte Anwendungen
