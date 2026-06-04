@@ -25,6 +25,8 @@ In meinem Profil findet ihr einen Teil meiner privaten Projekte, bei denen ich m
 - [🍲 Rezepte](https://github.com/martin-stromberg/rezepte) – .NET Blazor Server Anwendung zur Verwaltung von Kochrezepten  
 - [🎬 VideoPlayer](https://github.com/martin-stromberg/videoplayer) – .NET Blazor Server Anwendung für die private Mediathek mit .NET MAUI Client
 - [🔨 Softwareschmiede](https://github.com/martin-stromberg/Softwareschmiede) – .NET Blazor Server Anwendung für die Steuerung der KI-basierten  Weiterentwicklung der Softwareentwicklungsprojekte
+- [🔌 Schnittstellenzentrale](https://github.com/martin-stromberg/Schnittstellenzentrale) – Blazor Server-Anwendung zur zentralen Verwaltung lokaler Webservice-Endpunkte.
+
 
 ### 💼 Beruflich
 - Entwicklung zahlreicher individueller Anpassungen für **Business Central** (vormals Dynamics NAV oder Navision), zur Automatisierung von Geschäftsprozessen:
