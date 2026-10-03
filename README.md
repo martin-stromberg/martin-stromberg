@@ -26,6 +26,7 @@ In meinem Profil findet ihr einen Teil meiner privaten Projekte, bei denen ich m
 - [🎬 VideoPlayer](https://github.com/martin-stromberg/videoplayer) – .NET Blazor Server Anwendung für die private Mediathek mit .NET MAUI Client
 - [🔨 Softwareschmiede](https://github.com/martin-stromberg/Softwareschmiede) – .NET Blazor Server Anwendung für die Steuerung der KI-basierten  Weiterentwicklung der Softwareentwicklungsprojekte
 - [🔌 Schnittstellenzentrale](https://github.com/martin-stromberg/Schnittstellenzentrale) – Blazor Server-Anwendung zur zentralen Verwaltung lokaler Webservice-Endpunkte.
+- [📰 Reporter](https://github.com/martin-stromberg/Reporter) - Lokaler RSS-/Feed-Reader als .NET MAUI-App für iOS.
 
 
 ### 💼 Beruflich
