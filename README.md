@@ -27,6 +27,7 @@ In meinem Profil findet ihr einen Teil meiner privaten Projekte, bei denen ich m
 - [🔨 Softwareschmiede](https://github.com/martin-stromberg/Softwareschmiede) – .NET Blazor Server Anwendung für die Steuerung der KI-basierten  Weiterentwicklung der Softwareentwicklungsprojekte
 - [🔌 Schnittstellenzentrale](https://github.com/martin-stromberg/Schnittstellenzentrale) – Blazor Server-Anwendung zur zentralen Verwaltung lokaler Webservice-Endpunkte.
 - [📰 Reporter](https://github.com/martin-stromberg/Reporter) - Lokaler RSS-/Feed-Reader als .NET MAUI-App für iOS.
+- [⛽ Tankradar](https://github.com/martin-stromberg/Tankradar) - .NET MAUI-App für iOS für den Abruf von Spritpreisen und Erfassung der Tankungen
 
 
 ### 💼 Beruflich
